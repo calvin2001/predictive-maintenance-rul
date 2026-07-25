@@ -134,7 +134,7 @@ MSE는 대칭이지만, 손실 자체를 비대칭으로 만들면 모델이 학
 
 ```
 .
-├── 코드.ipynb        # 전체 파이프라인, 그래프 포함 실행본 (영문 주석)
+├── predictive_maintenance_rul.ipynb        # 전체 파이프라인, 그래프 포함 실행본 (영문 주석)
 ├── README.md         # 영문
 ├── README.ko.md      # 이 파일
 └── CMAPSSData/       # FD001 텍스트 3개를 여기에 (커밋 제외)
