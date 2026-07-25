@@ -147,7 +147,7 @@ stopping, and tuning the over-penalty on the validation set rather than the test
 
 ```
 .
-├── 코드.ipynb        # full pipeline, executed with plots (English)
+├── predictive_maintenance_rul.ipynb        # full pipeline, executed with plots (English)
 ├── README.md         # this file
 ├── README.ko.md      # Korean version
 └── CMAPSSData/       # place the three FD001 .txt files here (not committed)
