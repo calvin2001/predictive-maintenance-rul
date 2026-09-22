@@ -163,7 +163,3 @@ stopping, and tuning the over-penalty on the validation set rather than the test
 2. `pip install torch numpy pandas scikit-learn matplotlib`
 3. Run `코드.ipynb` top to bottom. All results and figures are reproducible with a fixed
    seed (42).
-
-*This is the third of three portfolio projects applying machine learning to an industrial
-engineering problem — here, turning predictive maintenance into a time-series regression
-task with a cost-aware evaluation.*
