@@ -149,6 +149,3 @@ MSE는 대칭이지만, 손실 자체를 비대칭으로 만들면 모델이 학
    `train_FD001.txt`, `test_FD001.txt`, `RUL_FD001.txt`를 `CMAPSSData/`에 둔다.
 2. `pip install torch numpy pandas scikit-learn matplotlib`
 3. `코드.ipynb`를 위에서 아래로 실행. 시드(42) 고정으로 모든 결과·그림이 재현된다.
-
-*이 프로젝트는 산업공학 문제에 머신러닝을 적용한 3부작 포트폴리오의 세 번째다 — 여기서는
-예지보전을 비용을 고려한 시계열 회귀 문제로 풀어냈다.*
